@@ -16,7 +16,6 @@
     </modules>
     <packaging>pom</packaging>
 
-	<name>jiateng</name>
     <properties>
         <spring.version>5.0.2.RELEASE</spring.version>
         <springmvc.version>5.0.2.RELEASE</springmvc.version>
