@@ -17,6 +17,7 @@
     <packaging>pom</packaging>
 	
 	
+	张三添加了一个依赖
 	李四添加了一个依赖
     <properties>
         <spring.version>5.0.2.RELEASE</spring.version>
